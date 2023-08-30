@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".src", ".src", "{F379C70C-2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".tests", ".tests", "{DF9D82B8-3073-45B6-A3FF-2BD869AC6721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator.Shared", "..\.src\StringCalculator.Shared\StringCalculator.Shared.csproj", "{D325992E-7D16-4BE3-80A5-E9585BFBBC1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator.Shared", ".src\StringCalculator.Shared\StringCalculator.Shared.csproj", "{D325992E-7D16-4BE3-80A5-E9585BFBBC1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator.Tests", "..\.tests\StringCalculator.Tests\StringCalculator.Tests.csproj", "{DD726460-3FB0-4A1B-9FFC-EF5E5A370949}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator.Tests", ".tests\StringCalculator.Tests\StringCalculator.Tests.csproj", "{DD726460-3FB0-4A1B-9FFC-EF5E5A370949}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
